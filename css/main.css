@@ -1,3 +1,29 @@
 #guesthouse-logo{
   width: 20%;
 }
+
+.location2 {
+  /*background-color: brown;*/
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding: 0px !important;
+  margin: 0px !important;
+  border: 0px !important;
+}
+
+
+.maprow {
+    /*background-color: brown;*/
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding: 0px !important;
+    margin: 0px !important;
+    border: 0px !important;
+}
+
+.map {
+    height: 500px;
+    width: 100%;
+}
